@@ -8,3 +8,4 @@
 * git log-  output of all commits
 * git checkout- moving from one commit to another
 * git checkout master- moving to the current state of the file
+* git diff- show differences between current file and fie with last commit 
