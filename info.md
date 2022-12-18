@@ -9,6 +9,10 @@
 * git checkout- moving from one commit to another
 * git checkout master- moving to the current state of the file
 * git diff- show differences between current file and fie with last commit 
+* git branch- Shows us which branch we are in
+* git branch lists - create a new branch
+* git checkout lists- moving to the branch "lists"
+* git merge lists- there is a merge of the branches in which we are
 # Symbol's instruction
 
 * Header - select headings. The number of “#” characters sets the heading level (6 levels are supported).
