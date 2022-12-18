@@ -48,6 +48,10 @@ example:
 > [!WARNING]
 > Dangerous certain consequences of an action.
 
+It looks like:
+
+![screenshot](1.png)
+
  
 
 # Angle brackets, Apostrophes and quotation marks
@@ -70,3 +74,11 @@ left opening single quote (rarely used): & # 8216;.
 
 # Links usage
 https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
+
+# How to work with images
+To add image:
+![add_image](2.png)
+
+To add another resource:
+![add_resource](3.png)
+
