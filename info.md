@@ -13,6 +13,8 @@
 * git branch lists - create a new branch
 * git checkout lists- moving to the branch "lists"
 * git merge lists- there is a merge of the branches in which we are
+* .gitignore- create new file in VSStudio, then wright what git must ignore
+
 # Symbol's instruction
 
 * Header - select headings. The number of “#” characters sets the heading level (6 levels are supported).
