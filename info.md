@@ -24,7 +24,8 @@ example:
 2. Second line
 3. Third line
 
-* > This is a blockquote. It is usually rendered indented and with a different background color.
+> This is a blockquote. It is usually rendered indented and with a different background color. (use >)
+
 
 # Note, tip, important, cauting, warning.
 
@@ -42,6 +43,8 @@ example:
 
 > [!WARNING]
 > Dangerous certain consequences of an action.
+
+ 
 
 # Angle brackets, Apostrophes and quotation marks
 
@@ -63,4 +66,3 @@ left opening single quote (rarely used): & # 8216;.
 
 # Links usage
 https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
-
