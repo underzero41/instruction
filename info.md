@@ -60,3 +60,7 @@ right (closing) quote: & # 8221;;
 right closing single quote or apostrophe: & #8 217;;
 left opening single quote (rarely used): & # 8216;.
 > All symbols without spaces!
+
+# Links usage
+https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
+
