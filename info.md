@@ -24,6 +24,8 @@ example:
 2. Second line
 3. Third line
 
+* > This is a blockquote. It is usually rendered indented and with a different background color.
+
 # Note, tip, important, cauting, warning.
 
 > [!NOTE]
@@ -40,4 +42,6 @@ example:
 
 > [!WARNING]
 > Dangerous certain consequences of an action.
+
+===========================
 
