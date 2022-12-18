@@ -16,6 +16,7 @@
 * .gitignore- create new file in VSStudio, then wright what git must ignore
 * clear- clear terminal
 * git branch lists -d - deleting branch  
+* git log --graph - show log with interaction
 
 # Symbol's instruction
 
