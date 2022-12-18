@@ -84,3 +84,5 @@ To add image:
 To add another resource:
 ![add_resource](3.png)
 
+For more information visit:
+https://learn.microsoft.com/ru-ru/contribute/markdown-reference
