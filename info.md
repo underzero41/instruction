@@ -14,6 +14,8 @@
 * git checkout lists- moving to the branch "lists"
 * git merge lists- there is a merge of the branches in which we are
 * .gitignore- create new file in VSStudio, then wright what git must ignore
+* clear- clear terminal
+* git branch lists -d - deleting branch  
 
 # Symbol's instruction
 
