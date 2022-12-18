@@ -43,5 +43,20 @@ example:
 > [!WARNING]
 > Dangerous certain consequences of an action.
 
-===========================
+# Angle brackets, Apostrophes and quotation marks
 
+* If angle brackets are used in the text of the file (for example, to indicate a placeholder), they must be encoded manually. Otherwise, the Markdown markup treats them as HTML tags.
+
+For example, script name <> should be encoded as &lt;script name&gt; or \<scriptname>. (symbols \ < >) and (&lt ;  and &gt ; without spaces)
+
+Angle brackets do not need to be escaped in text formatted as inline code or in blocks of code.
+
+If you copy text from Word into the Markdown editor, it may contain bookish (curved) apostrophes or quotation marks. They need to be replaced with code or regular apostrophes or quotation marks. Otherwise, unreadable text, such as Itâ€™s, may be displayed after the file is published.
+
+The following are the encodings for these punctuation marks:
+
+left (opening) quote: & # 8220;;
+right (closing) quote: & # 8221;;
+right closing single quote or apostrophe: & #8 217;;
+left opening single quote (rarely used): & # 8216;.
+> All symbols without spaces!
