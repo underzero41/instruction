@@ -19,6 +19,7 @@
 * git log --graph - show log with interaction
 * Create account on github.com
 * Add local repository
+* "friendly" your local and remote repositories. Github tip how to
 
 # Symbol's instruction
 
