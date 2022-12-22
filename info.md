@@ -17,6 +17,7 @@
 * clear- clear terminal
 * git branch lists -d - deleting branch  
 * git log --graph - show log with interaction
+* push (send) your local repository to remote (github.com)
 
 # Symbol's instruction
 
