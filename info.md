@@ -17,6 +17,8 @@
 * clear- clear terminal
 * git branch lists -d - deleting branch  
 * git log --graph - show log with interaction
+* Create account on github.com
+
 
 # Symbol's instruction
 
