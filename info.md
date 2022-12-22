@@ -20,6 +20,7 @@
 * Create account on github.com
 * Add local repository
 * "friendly" your local and remote repositories. Github tip how to
+* push (send) your local repository to remote (github.com)
 
 # Symbol's instruction
 
