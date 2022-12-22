@@ -18,7 +18,7 @@
 * git branch lists -d - deleting branch  
 * git log --graph - show log with interaction
 * Create account on github.com
-
+* Add local repository
 
 # Symbol's instruction
 
