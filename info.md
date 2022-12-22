@@ -17,6 +17,7 @@
 * clear- clear terminal
 * git branch lists -d - deleting branch  
 * git log --graph - show log with interaction
+* "friendly" your local and remote repositories. Github tip how to
 
 # Symbol's instruction
 
