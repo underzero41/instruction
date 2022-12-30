@@ -29,6 +29,7 @@
 * do all changes only in new branch
 * push (send) changes to gihub
 * on github shows pull request
+* git branch --all - shows all branches on remote repository
 
 
 # Symbol's instruction
