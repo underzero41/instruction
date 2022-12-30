@@ -30,6 +30,9 @@
 * push (send) changes to gihub
 * on github shows pull request
 * git branch --all - shows all branches on remote repository
+* git switch -c <new-branch-name> - If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command.
+* git switch - Or undo this operation with
 
 
 # Symbol's instruction
