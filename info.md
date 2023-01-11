@@ -38,6 +38,10 @@ do so (now or later) by using -c with the switch command.
 * dotnet new cosole - create new project
 * dotnet run - run project
 
+# Syntaxys C#
+* Write();  -  one line output
+* WriteLine();  - at the end go to a new line
+* ReadLine();  -  read line from terminal
 
 # Symbol's instruction
 
