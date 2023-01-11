@@ -34,6 +34,11 @@
 do so (now or later) by using -c with the switch command.
 * git switch - Or undo this operation with
 
+# Dotnet
+* dotnet new cosole - create new project
+* donet run - run project
+*
+
 
 # Symbol's instruction
 
