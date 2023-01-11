@@ -36,8 +36,7 @@ do so (now or later) by using -c with the switch command.
 
 # Dotnet
 * dotnet new cosole - create new project
-* donet run - run project
-*
+* dotnet run - run project
 
 
 # Symbol's instruction
